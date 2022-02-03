@@ -21,3 +21,19 @@ The distance between Vijayawada Airport to Abhiruchi restaurant is exactly 120km
 - Sri Ramu sweets near sarovar petrol bunk.
 
 [Link for AboutMe](https://github.com/rppnaidu/assignment-ratnala/blob/main/AboutMe.md)
+
+
+---
+
+Tables
+
+---
+
+Below table provides details about the sports and the price to play the game as a group and also determined locations.
+
+| Game | Location | Price
+| --- | --- | ---
+| Cricket | Dharmasala | 22 $
+| Hockey | Pune | 43 $
+| Badminton | Hyderabad | 55 $
+
