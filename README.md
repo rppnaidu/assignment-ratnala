@@ -19,3 +19,5 @@ The distance between Vijayawada Airport to Abhiruchi restaurant is exactly 120km
 - Ice creams and tiffins at mid nights with added chutneys.
 - Chicken pakodi and salla punukulu near Subbaraidu temple.
 - Sri Ramu sweets near sarovar petrol bunk.
+
+[Link for AboutMe](https://github.com/rppnaidu/assignment-ratnala/blob/main/AboutMe.md)
