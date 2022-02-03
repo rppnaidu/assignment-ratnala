@@ -37,3 +37,17 @@ Below table provides details about the sports and the price to play the game as 
 | Hockey | Pune | 43 $
 | Badminton | Hyderabad | 55 $
 
+---
+
+Pithy Quotes
+
+---
+
+> You can do anything, but not everything
+
+- *David Allen*
+
+> Science and everyday life cannot and should not be separated.
+
+- *Rosalind Franklin*
+
